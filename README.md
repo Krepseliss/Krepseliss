@@ -7,5 +7,5 @@ Hello there! I'm an economics student based in Patras, Greece, gearing up to gra
 💼 What I'm Focused On:
 
     Completing my degree in economics with a strong academic record.
-    Developing my first data science project, applying theoretical knowledge to practical problems.
+    Developing my first data science projects, applying theoretical knowledge to practical problems.
     Enhancing my skills in data analysis, machine learning, and statistical modeling.
